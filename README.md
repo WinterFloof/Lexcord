@@ -1,6 +1,4 @@
-<h1><p align="center">
-Lexcord
-</p></h1>
-<p align="center">
-Changes Discord's font to Lexend Deca
+<div align=center><h1>Lexcord</h1>
+ Changes Discord's font to Lexend Deca</a>.</p>
 </p>
+<a href=https://github.com/snappycreeper/OldDiscordFont/releases/latest><img src="https://img.shields.io/github/v/release/WinterFloof/Lexcord"></img></a>
