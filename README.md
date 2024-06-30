@@ -1,4 +1,13 @@
-<div align=center><h1>Lexcord</h1>
- Changes Discord's font to Lexend</a>.</p>
+<div align="center">
+
+<h1>Lexcord</h1>
+Changes Discord's font to Lexend.
 </p>
-<a href=https://github.com/WinterFloof/Lexcord/releases/latest><img src="https://img.shields.io/github/v/release/WinterFloof/Lexcord"></img></a>
+
+[release-badge]: https://img.shields.io/github/v/release/WinterFloof/Lexcord
+[release-link]: https://github.com/WinterFloof/Lexcord/releases
+[issues-badge]: https://img.shields.io/github/issues/WinterFloof/Lexcord
+[issues-link]: https://github.com/WinterFloof/Lexcord/issues
+
+[![Releases][release-badge]][release-link]
+[![Issues][issues-badge]][issues-link]
