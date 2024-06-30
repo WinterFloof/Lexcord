@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Lexcord</h1>
-Changes Discord's font to Lexend.
+Changes Discord's font to Lexend Deca
 </p>
 
 [release-badge]: https://img.shields.io/github/v/release/WinterFloof/Lexcord
