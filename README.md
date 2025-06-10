@@ -35,11 +35,11 @@ This is where Lexend was formed.
 
 **For BetterDiscord and Vencord:**
 
-Download the theme file from [releases](https://github.com/WinterFloof/Lexcord/releases) and move it into the themes folder:
+Download the CSS theme file from [releases](https://github.com/WinterFloof/Lexcord/releases) and move it into the themes folder:
 
 - BetterDiscord: `%appdata%\betterdiscord\themes`
 - Vencord: `%appdata%\vencord\themes`
 
-Then, install those fonts to your system by either double-left-clicking and selecting install or right-clicking and selecting install so they load correctly in your client.
+Then, install all the fonts to your system by either double-left-clicking and selecting install or right-clicking and selecting install so they load correctly in your client.
 
 **Disclaimer:** BetterDiscord & Vencord are a third-party client mods and not supported by Discord, use at your own risk.
